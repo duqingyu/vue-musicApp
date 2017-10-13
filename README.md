@@ -8,4 +8,6 @@ webpack-simple+vue2.0.js音乐播放器<br>
              6.歌词同步存在一些bug 所有只有推荐下面的歌曲才有歌词<br>
 使用：<br>
       npm install<br>
-      npm run dev<br>
+      npm install --save-dev babel-plugin-transform-object-rest-spread<br>
+      npm install vuex <br>
+      npm run dev<br>
